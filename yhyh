@@ -1,0 +1,12 @@
+a=int(input('A'))
+b=int(input('B'))
+c=a*b
+print(c)
+
+A=3
+B=5
+C=a+b
+print(C)
+
+a,b = 3,6
+print(a+b)
